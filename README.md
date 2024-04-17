@@ -124,3 +124,18 @@ a aula é como o Ricardo[^2]
 [^2]: Ricardo: Professor da turma de git.
 
 ## Alertas
+São usados para destacar informações importantes, como notas, avisos ou mensagens.
+
+Exemplo:
+
+> **Note**
+> Esta é uma Nota
+
+> [!NOTE]
+> Destaca informações que os usuários devem levar em consideração, mesmo durante a leitura superficial.
+
+> [!IMPORTANT]
+> Informações cruciais necessárias para o sucesso dos usuáarios.
+
+> [!WARNING]
+> Conteúdo crítico que exige atenção imediata do usuário devido a riscos potencias.
