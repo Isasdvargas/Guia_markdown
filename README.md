@@ -99,6 +99,28 @@ Exemplo:
 - [x] Tarefas concluída
 - [ ] Tarefas pendente
 
-## Referências 
-## Notas de rodapé 
+## Referências
+Permitem adicionar notas de rodapé para fornecer mais informações sobre o conteúdo do documento.
+
+Exemplo:
+
+Aqui é um exemplo de marcação em rodapé[^1]
+
+a aula é como o Ricardo[^2]
+
+[^1]: Rodapé: conteúdo inferior do documento.
+[^2]: Ricardo: Professor da turma de git.
+
+## Notas de rodapé
+Permitem adicionar notas de rodapé para fornecer mais informações sobre o conteúdo do documento.
+
+Exemplo:
+
+Aqui é um exemplo de marcação em rodapé[^1]
+
+a aula é como o Ricardo[^2]
+
+[^1]: Rodapé: conteúdo inferior do documento.
+[^2]: Ricardo: Professor da turma de git.
+
 ## Alertas
