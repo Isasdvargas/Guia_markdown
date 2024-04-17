@@ -12,7 +12,7 @@ Exemplo:
 ## Parágrafos 
 Simplismente escreva seu texto como parágrafos normais. Não é necessáriamente nenhum tipo de marcação adicional.
 
-exemplo:
+Exemplo:
 Aqui eu tenho um parágrafo
 
 ## Listas
@@ -24,6 +24,12 @@ Lista não ordenada:
 * Item 1
 * Item 2
 * Item 3
+
+  Lista ordenada:
+  
+1. Primeiro item
+2. Segundo item
+3. Terceiro item 
   
 ## Links
 ## Imagems
