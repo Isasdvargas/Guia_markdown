@@ -82,7 +82,23 @@ idade = 17
 print(f"A idade é {idade}")
 ```
 ## Tabelas
+Criem tabelas organizadas em colunas e linhas 
+
+Exemplo:
+
+| Cabeçalho 1 | Cabeçalho 2 |
+|-------------|-------------|
+| Dado 1      | Dado 2      |
+| Dado 3      | Dado 4      |
+
 ## Listas de tarefas
+Criem listas de tarefas que podem ser marcados como concluídas ou pendentes.
+
+Exemplo:
+
+- [x] Tarefas concluída
+- [ ] Tarefas pendente
+
 ## Referências 
 ## Notas de rodapé 
 ## Alertas
