@@ -32,11 +32,55 @@ Lista não ordenada:
 3. Terceiro item 
   
 ## Links
+Criam links para outras páginas da web.
+
+Exemplos: 
+
+[Texto do link](URL) para criar um link.
+
 ## Imagems
+Insira imagens em um documento Markdown.
+
+Exemplo:
+
+![Imagem](URL_da_imagem)
+
 ## Ênfase
+Permitem enfatizar texto, como itálico, negrito, tachado,subscrito e sobrescrito.
+
+Exemplo:
+
+*texto em iálico* ou _texto em negrito_ para negrito.
+
+~~Texto em tachado~~
+
+Aqui é um texto <sub> subscrito </sub>
+
+Aqui é um texto <sup> sobrescrito </sup>
+
 ## Citações em bloco
+São usadas para destacar uma citação ou bloco de texto.
+
+Exemplo:
+
+> Isso é uma sitação de bloco.
+
 ## Linhas hirizontais
+São usadas para criar uma linha horizontal para separar seções do documento.
+
+---
+
 ## Código 
+Permitem inserir blocos de código ou destacar código dentro do texto.
+
+Exemplo:
+
+Use crases (\`) para inserir código `inline`.
+
+```
+idade = 17
+print(f"A idade é {idade}")
+```
 ## Tabelas
 ## Listas de tarefas
 ## Referências 
