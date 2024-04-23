@@ -128,7 +128,7 @@ São usados para destacar informações importantes, como notas, avisos ou mensa
 
 Exemplo:
 
-> **Note**
+> **Nota**
 > Esta é uma Nota
 
 > [!NOTE]
